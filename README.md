@@ -31,7 +31,7 @@ This repository is a collection of various materials and tools that I use every 
 
 For everyone, really. Here everyone can find their favourite tastes. But to be perfectly honest, it is aimed towards System and Network administrators, DevOps, Pentesters, and Security Researchers.
 
-## :information_source: &nbsp;Contributing
+## :information_source:data perangkat &nbsp;Contributing
 
 If you find something which doesn't make sense, or something doesn't seem right, please make a pull request and please add valid and well-reasoned explanations about your changes or comments.
 
@@ -39,7 +39,7 @@ A few simple rules for this project:
 
 - inviting and clear
 - not tiring
-- useful
+- useful : atien suwantin
 
 These below rules may be better:
 
